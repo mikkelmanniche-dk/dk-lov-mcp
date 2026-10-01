@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="idfefb8c6b-d7f9-4904-b6cd-686141bf6e1c" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2022/05/17/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="id708ea263-2687-4e61-a12d-ab711d0826c7">
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20240065530</AccessionNumber>
+    <DocumentId>AA014209</DocumentId>
+    <UniqueDocumentId>243623</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af lov om offentlighed i forvaltningen og forvaltningsloven (Styrket beskyttelse af offentligt ansatte i sager om aktindsigt)</DocumentTitle>
+    <Year>2024</Year>
+    <DiesSigni>2024-06-11</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <StartDate REFid="submit_1">2024-06-11</StartDate>
+    <EndDate REFid="submit_1">2024-06-12</EndDate>
+    <Status>Valid</Status>
+    <Number>655</Number>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <DiesEdicti>2024-06-11</DiesEdicti>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">FREDERIK R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Peter Hummelgaard</Signature>
+    <PlaceOfSignature>Givet på Christiansborg Slot</PlaceOfSignature>
+    <JournalNumber>Justitsmin., j.nr. 2021-00825</JournalNumber>
+    <Ministry>Justitsministeriet</Ministry>
+  </Meta>
+  <TitelGruppe id="id852c72e9-e762-46e1-9f44-56754750d48e">
+    <Titel id="id985d6363-9b31-4e6d-9f64-d6f26c549b06">
+      <Linea>
+        <Char>Lov om ændring af lov om offentlighed i forvaltningen og forvaltningsloven</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel id="id4c415d4c-f06c-4150-9674-348003e83f30">
+      <Linea>
+        <Char>(Styrket beskyttelse af offentligt ansatte i sager om aktindsigt)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold id="id7f2016ac-094f-4955-a04e-25361604245a">
+    <Hymne id="idff318432-4c27-4bf7-af6e-f827d23d79a2">
+      <Exitus>
+        <Linea>
+          <Char>VI FREDERIK DEN TIENDE, af Guds Nåde Danmarks Konge, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf id="id03d6c6d7-5305-46d3-8575-54a5493ccdba" localId="1">
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om offentlighed i forvaltningen, jf. lovbekendtgørelse nr. 145 af 24. februar 2020, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id8b78390c-1cae-4453-866c-0a55b6a1355c">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id46bd9435-76e9-407e-a9cd-37801fedf1f4">
+          <AendringDefinition id="id49f86b4f-f778-410d-9c70-739d91e7bb3d">
+            <Exitus>
+              <Linea>
+                <Char>I</Char>
+                <Char formaChar="Italic"> § 9, stk. 2, nr. 2, </Char>
+                <Char>indsættes efter</Char>
+                <Char formaChar="Italic"></Char>
+                <Char>»retsstridigt«: »eller chikanøst«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id3f14af22-c504-42e7-8db8-06a2601ae9b3">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id2fde9c89-61ad-4f9b-bb31-8a4aa133bf78">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="id4a8ca09d-6704-4f0c-a475-a2faf4527859">
+          <AendringDefinition id="idb4432f7e-ea37-4f1f-b6cf-df05db0b560c">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 21, stk. 3,</Char>
+                <Char> indsættes efter 1. pkt. som nyt punktum:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idc6e99745-dde0-481f-b350-ff4e79907da6">
+            <AendringNyTekst>
+              <Exitus>
+                <Linea>
+                  <Char>Der meddeles dog ikke indsigt i oplysninger om den ansattes navn, hvis væsentlige hensyn til den ansattes tryghed taler herimod.</Char>
+                </Linea>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="id8a100cd0-066f-49bc-9fb8-c267e23da768" localId="2">
+      <Explicatus>§ 2</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I forvaltningsloven, jf. lovbekendtgørelse nr. 433 af 22. april 2014, som ændret ved § 2 i lov nr. 503 af 23. maj 2018, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id6f15b0da-d383-482f-a9fd-4005ce98003b">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="idef55fca5-d7a3-4568-9a90-6b7e463cd132">
+          <AendringDefinition id="id55380309-03bd-4479-a0de-a1d04380748e">
+            <Exitus>
+              <Linea>
+                <Char>I</Char>
+                <Char formaChar="Italic"> § 9 a </Char>
+                <Char>indsættes som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 2:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id7d32c48b-17d8-4d72-a896-c044b40c16f4">
+            <AendringNyTekst>
+              <Stk id="idb4aa4789-682d-4dec-8d6f-84726771ac01">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Behandlingen af en anmodning om aktindsigt efter § 9 kan, uanset at stk. 1 er opfyldt, afslås, i det omfang anmodningen må antages at skulle tjene et retsstridigt formål el.lign.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf id="idbd138ca1-6195-4221-bda9-e3ea9b9c933a" localId="3">
+      <Explicatus>§ 3</Explicatus>
+      <Stk id="idf29048e5-84e9-4eb6-a98c-1e3fadfa0bf6">
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft den 1. juli 2024.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+    <IkraftCentreretParagraf id="idd3430a0c-983d-4c99-b628-11cbecd96655" localId="4">
+      <Explicatus>§ 4</Explicatus>
+      <Stk id="id9c211133-35e6-4c62-9844-c3c95456e9ce">
+        <Exitus>
+          <Linea>
+            <Char>Loven gælder ikke for sager om færøske og grønlandske forhold, men kan ved kongelig anordning sættes i kraft for sådanne sager med de ændringer, som de færøske og de grønlandske forhold tilsiger.</Char>
+          </Linea>
+          <Linea>
+            <Char>Dette gælder dog kun for sager, der er eller har været under behandling af rigsmyndigheder.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="idc93f38a1-d11c-4681-aa25-0bf257d495f3">
+    <UnderskriftStedDato />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver />
+  </UnderskriftGruppe>
+</Dokument>

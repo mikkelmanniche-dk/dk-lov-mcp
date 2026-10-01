@@ -1,0 +1,32 @@
+[project]
+name = "dk-lov-mcp"
+version = "1.0.0"
+description = "Dansk lov fra Retsinformation som MCP-server: opslag på navn, fritekst, ordret paragraftekst og senere ændringer."
+readme = "README.md"
+license = "Apache-2.0"
+requires-python = ">=3.12"
+dependencies = [
+    "fastmcp>=3.4,<4",
+    "httpx>=0.28,<1",
+    "pydantic>=2.10,<3",
+    "diskcache>=5.6,<6",
+    "anyio>=4.6,<5",
+    "defusedxml>=0.7,<1",
+]
+
+[project.scripts]
+dk-lov-mcp = "dk_lov_mcp.server:main"
+
+[dependency-groups]
+dev = ["pytest>=8.3", "pytest-asyncio>=0.25"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/dk_lov_mcp"]
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
+testpaths = ["tests"]

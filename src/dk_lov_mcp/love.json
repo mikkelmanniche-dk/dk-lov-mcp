@@ -1,0 +1,193 @@
+{
+  "_note": "Faste navne og forkortelser for ofte brugte love. Numrene peger på den gældende udgave pr. 1/10-2026; udstedes en ny lovbekendtgørelse, viser lov_hent det som gaeldende: false.",
+  "love": [
+    {
+      "noegle": "offentlighedsloven",
+      "navn": "Offentlighedsloven",
+      "aliaser": [
+        "ofl",
+        "offentlighedsloven",
+        "lov om offentlighed i forvaltningen"
+      ],
+      "aar": 2020,
+      "nr": 145
+    },
+    {
+      "noegle": "miljoeoplysningsloven",
+      "navn": "Miljøoplysningsloven",
+      "aliaser": [
+        "mol",
+        "miljøoplysningsloven",
+        "miljoeoplysningsloven",
+        "lov om aktindsigt i miljøoplysninger"
+      ],
+      "aar": 2017,
+      "nr": 980
+    },
+    {
+      "noegle": "forvaltningsloven",
+      "navn": "Forvaltningsloven",
+      "aliaser": [
+        "fvl",
+        "forvaltningsloven"
+      ],
+      "aar": 2014,
+      "nr": 433
+    },
+    {
+      "noegle": "grundloven",
+      "navn": "Grundloven",
+      "aliaser": [
+        "grl",
+        "grundloven",
+        "danmarks riges grundlov"
+      ],
+      "aar": 1953,
+      "nr": 169
+    },
+    {
+      "noegle": "straffeloven",
+      "navn": "Straffeloven",
+      "aliaser": [
+        "strfl",
+        "straffeloven"
+      ],
+      "aar": 2025,
+      "nr": 1294
+    },
+    {
+      "noegle": "databeskyttelsesloven",
+      "navn": "Databeskyttelsesloven",
+      "aliaser": [
+        "dbl",
+        "databeskyttelsesloven"
+      ],
+      "aar": 2024,
+      "nr": 289
+    },
+    {
+      "noegle": "ophavsretsloven",
+      "navn": "Ophavsretsloven",
+      "aliaser": [
+        "ophl",
+        "ophavsretsloven",
+        "lov om ophavsret"
+      ],
+      "aar": 2023,
+      "nr": 1093
+    },
+    {
+      "noegle": "markedsfoeringsloven",
+      "navn": "Markedsføringsloven",
+      "aliaser": [
+        "mfl",
+        "markedsføringsloven",
+        "markedsfoeringsloven",
+        "lov om markedsføring"
+      ],
+      "aar": 2024,
+      "nr": 1420
+    },
+    {
+      "noegle": "aarsregnskabsloven",
+      "navn": "Årsregnskabsloven",
+      "aliaser": [
+        "årl",
+        "aarl",
+        "årsregnskabsloven",
+        "aarsregnskabsloven"
+      ],
+      "aar": 2026,
+      "nr": 402
+    },
+    {
+      "noegle": "bogfoeringsloven",
+      "navn": "Bogføringsloven",
+      "aliaser": [
+        "bogfl",
+        "bogføringsloven",
+        "bogfoeringsloven",
+        "lov om bogføring"
+      ],
+      "aar": 2022,
+      "nr": 700
+    },
+    {
+      "noegle": "selskabsloven",
+      "navn": "Selskabsloven",
+      "aliaser": [
+        "sel",
+        "selskabsloven",
+        "lov om aktie- og anpartsselskaber"
+      ],
+      "aar": 2025,
+      "nr": 331
+    },
+    {
+      "noegle": "cvr-loven",
+      "navn": "CVR-loven",
+      "aliaser": [
+        "cvr-loven",
+        "cvrl",
+        "lov om det centrale virksomhedsregister"
+      ],
+      "aar": 2026,
+      "nr": 246
+    },
+    {
+      "noegle": "momsloven",
+      "navn": "Momsloven",
+      "aliaser": [
+        "ml",
+        "momsloven",
+        "lov om merværdiafgift"
+      ],
+      "aar": 2024,
+      "nr": 209
+    },
+    {
+      "noegle": "funktionaerloven",
+      "navn": "Funktionærloven",
+      "aliaser": [
+        "ful",
+        "funktionærloven",
+        "funktionaerloven"
+      ],
+      "aar": 2017,
+      "nr": 1002
+    },
+    {
+      "noegle": "aftaleloven",
+      "navn": "Aftaleloven",
+      "aliaser": [
+        "aftl",
+        "aftaleloven"
+      ],
+      "aar": 2016,
+      "nr": 193
+    },
+    {
+      "noegle": "koebeloven",
+      "navn": "Købeloven",
+      "aliaser": [
+        "kbl",
+        "købeloven",
+        "koebeloven",
+        "lov om køb"
+      ],
+      "aar": 2021,
+      "nr": 1853
+    },
+    {
+      "noegle": "forbrugeraftaleloven",
+      "navn": "Forbrugeraftaleloven",
+      "aliaser": [
+        "fal",
+        "forbrugeraftaleloven",
+        "lov om forbrugeraftaler"
+      ],
+      "aar": 2025,
+      "nr": 1184
+    }
+  ]
+}

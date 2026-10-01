@@ -1,0 +1,14 @@
+dk-lov-mcp
+Copyright 2026 Mikkel Manniche
+
+Bygget på dk-eli-mcp af matematicsolutions
+(https://github.com/matematicsolutions/dk-eli-mcp), Apache License 2.0.
+
+Ændringer i forhold til dk-eli-mcp:
+- runtime.py (fjernstyret manifest og revisionslog) er fjernet. Adresserne er faste i koden,
+  og klienten følger ikke redirects.
+- cache.py: kun cachemappen (DK_LOV_CACHE_DIR, ~/.cache/dk-lov-mcp) er ændret.
+- client.py er skrevet om til klient.py med fritekstsøgning (api/documentsearch).
+- citations.py er skrevet om til lexdania.py med paragrafopslag, ren tekst, senere ændringer
+  (Meta/Change) og læsning af danske henvisninger.
+- server.py har nye danske værktøjer og et lovregister (love.json).
